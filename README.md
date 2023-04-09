@@ -1,1 +1,1 @@
-# AccuNinjaWeather
+# Accu-Weather
